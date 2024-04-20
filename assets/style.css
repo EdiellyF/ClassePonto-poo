@@ -1,0 +1,33 @@
+/* Estilos para o formulário e o botão */
+.card-pink {
+    background-color: #fff; /* Fundo branco para o cartão */
+    border-radius: 15px; /* Bordas arredondadas */
+}
+
+.card-pink .card-body {
+    color: #333; 
+}
+
+.btn-pink {
+    background-color: #000000; 
+    border-color: #00000027; 
+    color: #fff; 
+    width: 100%; 
+}
+
+.btn-pink:hover {
+    background-color: #6a00ff;
+    border-color: #ffffff; 
+    color: #fff; /* Cor do texto do botão */
+}
+
+#btn-toggle-login{
+    background-color: transparent;
+   
+  
+   
+}
+
+.coordenadas-3d {
+    display: none;
+}

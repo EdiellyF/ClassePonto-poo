@@ -21,6 +21,7 @@ class Ponto {
         return Math.sqrt((this.#x - p.x) ** 2 + (this.#y - p.y) ** 2);
     }
 }
+
 class Ponto3d extends Ponto {
     #z;
 

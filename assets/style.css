@@ -1,7 +1,8 @@
-/* Estilos para o formulário e o botão */
+
 .card-pink {
-    background-color: #fff; /* Fundo branco para o cartão */
-    border-radius: 15px; /* Bordas arredondadas */
+    background-color: #fff;
+    border-radius: 15px; 
+   margin-top: 10px;
 }
 
 .card-pink .card-body {
@@ -23,11 +24,23 @@
 
 #btn-toggle-login{
     background-color: transparent;
-   
-  
-   
 }
 
 .coordenadas-3d {
     display: none;
+}
+
+.estilizacao-mydiv {
+    padding: 20px;
+    text-align: center;
+    text-decoration: dashed;
+}
+
+#container-3d {
+    width: 800px;
+    height: 600px; /* Defina a altura desejada aqui */
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
